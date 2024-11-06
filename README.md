@@ -1,4 +1,6 @@
-# Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation
+<div>
+<h1 align="center"><img src='assets/logo_1024.png' width=60>Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation</h1>
+</div>
 
 [Ke Fan](https://vankouf.github.io/)$^{1}$, [Jiangning Zhang](https://zhangzjn.github.io/)$^{2}$, [Ran Yi](https://yiranran.github.io/)$^{1}$, [Jingyu Gong]()$^{1,4}$, [Yabiao Wang]()$^{2,3}$, [Yating Wang]()$^{1}$, [Xin Tan]()$^{4}$, [Chengjie Wang]()$^{1,2}$, [Lizhuang Ma]()$^{1,4}$
 
